@@ -1,0 +1,5 @@
+tkinter==8.6             # GUI library (may come pre-installed with Python)
+matplotlib==3.9.2 # Adjust version to match your installation
+numpy==1.26.4      # For data handling and calculations
+pyserial==3.5   # For serial communication with hardware
+
